@@ -2,6 +2,16 @@
 
 Short primer to quickly refresh my memory if needed.
 
+<br />
+
+## Table of Contents
+
+- [Naming Conventions](#naming-conventions)
+- [Layout Conventions](#layout-conventions)
+- [C# Coding Convetions](#microsft-c-coding-conventions)
+- [Variables](#variables)
+
+<br />
 
 ## Naming Conventions
 
@@ -9,7 +19,7 @@ Short primer to quickly refresh my memory if needed.
 
 **Pascal Case** for **class**, **record** or **struct**
 
-## Layout Convention
+## Layout Conventions
 
 - Four-character indenting, tabs saved as spaces
 - Write only one statement per line
@@ -21,7 +31,7 @@ Short primer to quickly refresh my memory if needed.
 
 ## Variables
 
-Use implicit typing for local variables if type is obvious from assignment.
+Use implicit typing for local variables if type is obvious from right side of the assignment.
 
 ```csharp
 var name = "John Smith";
