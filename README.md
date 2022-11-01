@@ -2,8 +2,6 @@
 
 Short primer to quickly refresh my memory if needed.
 
-<br />
-
 ## Table of Contents
 
 - [Naming Conventions](#naming-conventions)
@@ -28,6 +26,8 @@ Short primer to quickly refresh my memory if needed.
 ## Microsft C# Coding Conventions
 
 [Microsft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
+<br />
 
 ## Variables
 
