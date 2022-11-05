@@ -15,8 +15,6 @@ Short primer to quickly refresh my memory if needed.
 
 [Microsft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
-<br />
-
 ## Common Value Types
 
 | Type | Range | Size | .NET type |
