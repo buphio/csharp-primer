@@ -24,7 +24,7 @@ Short primer to quickly refresh my memory if needed.
 | **long** | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | 8 bytes | System.Int64 |
 | **float** | ±1.5 x 10e−45 to ±3.4 x 10e38 | 4 bytes | System.Single |
 | **double** | ±5.0 × 10e−324 to ±1.7 × 10e308 | 8 bytes | System.Double |
-| **bool** | 0/1 | 1 bit | System.Boolean |
+| **bool** | | 1 bit | System.Boolean |
 | **char** | U+0000 to U+FFFF | 2 bytes | System.Char |
 
 ## Strings
@@ -32,6 +32,7 @@ Short primer to quickly refresh my memory if needed.
 `string` represents a sequence of one or more Unicode characters. It is an alias for `System.String`.
 
 `==` and `!=` compare the **values** of string objects, not references.
+
 ```csharp
 string a == "hello";
 string b == "h";
